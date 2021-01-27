@@ -1,7 +1,12 @@
 p{
-    color: green;
+    color: #000000;
 }
 h1{
     font-size: 30px;
+}
+.container{
+    width: 100%;
+    max-width: 1140px;
+    padding: 0 15px;
 }
 /* ;fohgpih */
